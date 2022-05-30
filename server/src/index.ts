@@ -24,7 +24,7 @@ const main = async () => {
   }))
 
   app.listen(3001, () => {
-    console.log("SERVER PORT 3001 :rocket:")
+    console.log("SERVER PORT 3001 🔥")
   })
 }
 

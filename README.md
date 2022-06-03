@@ -1,2 +1,2 @@
 # crud-fullstack
-CRUD Fullstack, Node, Express, GraphQL, MySQL, React
+CRUD Fullstack, Node, Express, GraphQL, MySQL, React.
